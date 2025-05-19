@@ -1,0 +1,8 @@
+pymupdf
+sumy
+transformers
+torch
+sentencepiece
+ipywidgets
+nltk
+langchain-community
